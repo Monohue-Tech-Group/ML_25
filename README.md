@@ -1,2 +1,2 @@
 # ML_25
-Machine Learning Project for Electronic Health Record Machine Learning Engine.  Packages code and contains required code blocks for this task.  It will be used to create agent for health records analysis, using NLP and MLPs for further analytics and predictions.
+Agent for Supervising Sub-agents under program management plan.  These are sub-Agents assigned roles under the supervisory branch.  The sub-Agents are:  1.  Pain Management Support Group, 2. Constructor database ,3. NABS,  4. GeoCoder, 5. Self Defense.  These agents, number 1 to 5 as above.                                                                                          
